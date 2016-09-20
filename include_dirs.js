@@ -1,1 +1,1 @@
-console.log(require('path').resolve(__dirname));
+console.log(__dirname);
